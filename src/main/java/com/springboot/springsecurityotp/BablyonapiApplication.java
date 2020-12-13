@@ -1,4 +1,4 @@
-package com.digitaldots.bablyonapi;
+package com.springboot.springsecurityotp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

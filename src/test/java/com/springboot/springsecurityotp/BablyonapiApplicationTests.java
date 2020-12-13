@@ -1,4 +1,4 @@
-package com.digitaldots.bablyonapi;
+package com.springboot.springsecurityotp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
